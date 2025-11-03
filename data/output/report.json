@@ -1,0 +1,13 @@
+{
+    "average_temperature": 29.58,
+    "average_humidity": 48.75,
+    "total_rainfall": 98.5,
+    "hottest_day": [
+        "2025-10-01T00:00:00",
+        34.8
+    ],
+    "coldest_day": [
+        "2025-10-06T00:00:00",
+        25.8
+    ]
+}

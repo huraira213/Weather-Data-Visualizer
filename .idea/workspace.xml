@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89e52ae8-7d53-4eda-b875-0e5e69fe65e4" name="Changes" comment="" />
+    <list default="true" id="89e52ae8-7d53-4eda-b875-0e5e69fe65e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/core/analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/humidity_trend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/rainfall_pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/temperature_trend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/cli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/io_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/paths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/csv_analyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/processor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/csv_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/report_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/visualizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/input/sample.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/input/sample.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output/chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/input/sample2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output/report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/output/report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/user_interface.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/file_utils.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,21 +61,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ABU-HURAIRA/Documents/Weather-Data-Visualizer&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ABU-HURAIRA/Documents/Weather-Data-Visualizer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,6 +94,10 @@
       <updated>1761929705186</updated>
       <workItem from="1761929707009" duration="712000" />
       <workItem from="1761974697898" duration="3956000" />
+      <workItem from="1761996455004" duration="6042000" />
+      <workItem from="1762008522564" duration="3275000" />
+      <workItem from="1762056663192" duration="4728000" />
+      <workItem from="1762174020516" duration="17373000" />
     </task>
     <servers />
   </component>
